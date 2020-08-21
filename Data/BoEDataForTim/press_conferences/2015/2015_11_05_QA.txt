@@ -1,0 +1,861 @@
+﻿Bank of England
+Inflation Report Q&A
+5th November 2015
+Page 2
+Inflation Report Q&A - 5.11.15
+Richard Edgar, ITV News: Governor, not an awful lot has changed in the numbers that
+you base your forecast on from the August Report to today,
+and yet the forecast - the market expectations of when
+interest rates will rise that you base some of your forecast on
+- have moved nine months further back. Can you explain
+that move, please?
+Mark Carney: Yes, well there's a few things that have changed and your
+question allows me to draw them out more clearly. First, with
+respect to what's happened in markets - and I should make it
+absolutely clear (I know you know this, Richard, but just for
+everybody) that what we use to condition our forecast is the
+15-day moving average of market prices and we fix that at a
+point which was Thursday of last week, I believe - right?
+Wednesday of last week.
+There's been some subsequent moves in markets; we don't
+do a real time update. So first thing is we use that historic
+look-back. And over that period, at least the average over
+that period showed, as you suggest, quite notable falls in
+risk-free assets and an implied move-out in the date when
+interest rates would begin to rise in the UK.
+But there also had been quite sharp sell-offs in risky assets.
+Bank funding spreads had gone up notably, credit spreads
+had gone up, equity markets had sold off quite significantly.
+There's been a big unwind of some of those moves in the last
+few days. But the point being that first, from a financial
+conditions perspective as a whole, it wasn't unalloyed good
+news; in other words it just wasn't the improvement or the
+lowering of the yield curve which of course is, all things equal
+stimulative, there was actually a lot taken away from changes
+in the risky asset prices. So that's one element that had
+changed. And both of those was the opposing forces I
+referred to in my initial remarks.
+Page 3
+Inflation Report Q&A - 5.11.15
+The second thing that has changed since August is the
+outlook for global growth, our outlook for global growth,
+particularly for emerging markets. Now there's been a lot of
+news in terms of actual performance in emerging markets, as
+you're aware, but we also used this last three months to take
+an assessment of the medium-term prospects for emerging
+economies. The net result of that, even though emerging
+economies aren't that big a proportion of demand for UK
+goods, is a mark-down on level terms for UK-weighted global
+growth of about three quarters of a percentage point two
+years out. So it's a notable drag.
+It's almost exclusively because of emerging markets; it flows
+through a bit through the advanced economies, but again, as
+I referenced in my opening remarks and as you see in the
+Report, our view is pretty constructive on the outlook for our
+major advanced trading partners. So you have those two
+aspects.
+The third aspect I'll draw attention to - and I won't go into
+detail, subject to subsequent questions, is we've refined our
+estimates of pass-through from exchange rates both into
+import prices and, as they flow through, into final consumer
+prices. And so you have an element of the persistence there.
+Now that, wrapped it all together, had a consequence not just
+for the forecast, but also for how we think about the optimal
+trade-off of bringing inflation back to target.
+Robert Peston, BBC: Governor, in the last few months you've repeatedly said that
+the decision to raise interest rates would come into sharper
+relief at the turn of the year. It's patently not going to come
+into sharper relief at the turn of the year. Do you regret
+saying that?
+Mark Carney: Thank you, Robert. Absolutely not. I have No regrets. First
+thing - let me just preface. Obviously, we speak at these 
+Page 4
+Inflation Report Q&A - 5.11.15
+press conferences, as you know - you've been coming to
+them for a long time - we speak on behalf of the Committee,
+so not individual views. Second, sort of obvious point, is that
+the year has not yet turned, and the third point, which is
+obvious as well and you know this well, is that I'm speaking
+about a decision, not pre-judging what that decision would
+be.
+The question was how much progress would be made in the
+economy in the intervening months. You can call that data
+dependence, but it's a question of how much progress is
+made.
+There have been some notable events in intervening months,
+including developments in emerging economies. I would say
+progress in terms of the prospects of normalisation has been
+mixed, but if you look at growth - growth has ticked down to
+growing around trend in the most recent quarter - at least in
+the first estimate of the most recent quarter. We do expect,
+even in the face of fiscal consolidation and global weakness
+growth to reaccelerate or pick back up from that into next
+year - we'll see what happens there.
+Core inflation's been a bit softer than we would have
+expected, all things being equal in August. Part of that could
+be the greater persistence from exchange rates and the passthrough
+- again, we'll see how that evolves.
+Importantly, domestic costs have evolved largely in line with
+our expectations - the combination of wage growth and
+productivity - largely in line, including issues such as the
+compositional effects Ben spoke about at this last press
+conference.
+So as a whole, we have a situation where, as I say, there is
+mixed progress, but there is progress towards - and we're in
+a situation where - and I'll repeat myself from my opening 
+Page 5
+Inflation Report Q&A - 5.11.15
+comments - where we have resilient domestic demand; we
+have quite robust private domestic demand; and in the face
+of global weakness, we still see the need for limited and
+gradual increases in interest rates to bring inflation back to
+target and - an important point I'd underscore is - the point is
+not just bringing it back to target and then shooting through
+it, it's bringing it back to target and keeping it there. So
+bringing it back to target in a sustainable fashion.
+So we will have to craft policy as a Committee in order to
+achieve that, recognising that we have some foreign effects
+that are dampening inflation, including out to around two
+years. But they will ultimately dissipate and then we'll be left
+with the domestic factors dominating, all things being equal,
+and we need to manage that appropriately.
+Scott Hamilton, Bloomberg News: You've alluded to, in your introductory statement and also in
+your letter to George Osborne today, that the MPC is now
+going to try and return inflation back to target around - in
+two years' time, rather than within two years' time. What's
+the purpose behind that change of language? Is it some kind
+of increased flexibility?
+Mark Carney: Yeah, thanks, Scott. As you know, and it was made clear in
+our remit letter of two and a half years ago and then
+subsequently reaffirmed, this emphasis on the flexibility we
+have over the time horizon for the inflation target, and it's
+the responsibility of the Committee, to be clear, to take
+assessment of the types of shocks that are hitting the
+economy, affecting inflation, and what's the optimal time
+horizon to return.
+When we first had the big move in global commodity prices,
+the assessment was largely based on so-called base effects.
+You had, you know, one-time fall in food and energy prices.
+Those would wash out through CPI in roughly a year, and you
+could look through those and bring inflation back in a timeline 
+Page 6
+Inflation Report Q&A - 5.11.15
+consistent with the peak impact of monetary policy - so
+something in the 18 - 24 months type horizon.
+And that's how we've been thinking about things, and broadly
+that's been the stance. As we've looked a little more closely
+about the persistence of some of the foreign disinflation that
+we're having, so the time over which pass-through is coming
+through and affecting the inflation target. Another example
+would be recent moves in energy prices; I'm not talking
+about oil, but if you look at gas futures curves, that deck has
+fallen out through two years - you can see the flow-through
+to utility prices that will weigh on CPI inflation. But it's also
+an effect that will ultimately come off as well. It's a price
+level adjustment, but one that happens over the course of a
+few years.
+So taking all of that into account, and recognising, as I said
+to Robert, the pick-up in domestic costs that would be
+necessary to offset it, there's a desire to ensure that we
+return sustainably to target; so not try to fully offset those
+persistent effects to return too quickly to target, which would
+imply looser policy, all things being equal; but to ensure that
+policy is consistent, and consistent with inflation being at
+target once those effects dissipate. And that brings the shift
+which is a subtle, but notable, shift from within to around two
+years.
+Ed Conway, Sky News: Governor, five years ago in the Inflation Report, markets
+were expecting rates to be about 3.75% now. About a year
+ago the Inflation Report was - looking at market forecasts -
+saying that the rate was going to be about 1% now, little bit
+below 1%. All the time the markets have been forecasting
+that rates are going to be going up at some point about a
+year hence or a little bit more. Do you - are you really sure
+this time around that it's even worth endorsing those
+forecasts, given how many times they've been wrong in the
+past?
+Page 7
+Inflation Report Q&A - 5.11.15
+And also - sorry, I know I shouldn't ask two questions -
+Mark Carney: I'll just make sure I understand your first question. I just
+missed the last bit because of the camera - sorry.
+Ed Conway, Sky News: Is it worth even endorsing, or not endorsing - commenting on
+at all - forecasts which have proven themselves to be wrong
+repeatedly throughout the past five years, in terms of market
+yield curves?
+And secondly, at what stage do we look at what's happened
+here - and each year rates have remained flat, despite what
+has been forecast - and say, there seems to be something
+chronic here? Or is it just a series of unfortunate events?
+Mark Carney: Yeah. Well the first thing - we're not endorsing a market
+view, as you know, Ed. We take mechanically a constellation
+of market prices and we use them as assumptions in our
+forecast. What you get in this forecast in doing so is an
+overshoot of inflation at Year 2, a little higher overshoot at
+Year 3. And, as I've been noting, that's not the preference of
+the Committee. The preference of the Committee is to bring
+inflation back to target and to keep it there.
+The bigger question - and I'll pass to Ben to supplement on
+this - the bigger question, which is the right question, which
+is - what has been happening and what is the learning
+process about the nature of the global economy, where
+equilibrium interest rates are - in other words, how much
+stimulus has been provided even though - I mean, people
+talk. Not you, but sometimes - in fact no one in this room
+does it - but people talk about, quote, exceptionally
+stimulative monetary policy in the past, just because interest
+rates are at historic lows, ignoring that the level of interest
+rates required to actually provide stimulus have collapsed -
+certainly post-crisis, and in fact were likely very negative 
+Page 8
+Inflation Report Q&A - 5.11.15
+during the period where this institution, before my time, was
+engaged in quantitative easing.
+We're at a stage, though, where we do think that those
+equilibrium interest rates have been rising, that they've likely
+turned positive, that policy is stimulative, is net stimulative,
+even in the event of a much slower global economy.
+And I will now pass to Ben, but one point I would say as well,
+that's changed, and the assessment of the potential growth of
+both the advanced and now the emerging economies has
+changed, and that's something you do see - the latter is
+something you see in this forecast.
+Ben Broadbent: The Governor's said a lot of what I was going to say, and it is
+a question of this neutral or equilibrium interest rate. The
+only thing additional I'd say is that that had been declining for
+many years - many, many years prior to the crisis. A lot of
+the reason why even at zero interest rates - close to zero
+interest rates - policy has not been - or was not for some
+years after the crisis - acccommodative. Some of those
+factors were obviously to do with the crisis itself, and had
+depressed that neutral rate. But for a long time, I would say
+- as much as 15 years before it, the evidence suggests that
+neutral rate was falling. And you need only look at real
+interest rates - yields on indexed bonds - to see that, which
+declined steadily and significantly all the way through the
+early nineties, right up to the middle of the last decade.
+And there are deep forces, global forces, that probably were
+at work here, including demographics - something my
+predecessor, Charlie Bean referred to in a recent speech,
+which I recommend you read - stuff to do with the nature of
+investment demand, the nature of growth in China.
+So the only point I'd want to emphasise at the end is that,
+you know, the level of official interest rates at any point in 
+Page 9
+Inflation Report Q&A - 5.11.15
+time is therefore not some arbitrary choice of the Central
+Bank. In a way, we're responding to these forces. To the
+extent they're to do with the crisis, one would expect them to
+wane a little over time. And as the Governor has just said,
+that's implicitly true in our forecast, I think, to some degree.
+Catherine Boyle, CNBC: Janet Yellen has obviously just said, as I'm sure you know,
+that there's still a live possibility that the Fed may move in
+December. Could you still say this about the first half of
+2016?
+Mark Carney: That the Fed could move in the first half of 2016? No, look,
+we take a decision each - we've just taken a decision. In the
+view of the majority of the Committee it didn't make sense at
+this point to tighten monetary policy. One member did think
+it made sense. We'll take a decision each month and it will
+depend on the path.
+I think your perspective on the likelihood of that is obviously
+informed by the forecast that we've given. I would
+underscore that the forecast takes into account a
+constellation of asset price moves - so not just the yield
+curve, but where other asset prices had gone and the impact
+of that. It obviously updates our perspective - and others
+may disagree with that perspective - but our perspective on
+global growth and the flow-through, and it should be seen in
+the context of the MPC's objective, in terms of the time
+horizon, to return inflation to target, and its intention to
+return it there in a sustainable fashion. In other words, to
+return it there and to keep it there.
+Chris Giles, Financial Times: Governor, the forecasts you've got suggests that inflation has
+a very low probability - 55% or so - of exceeding the 2%
+target over the next three years, unless if you keep interest
+rates on hold all the way through 2016. And yet we've got
+house prices this morning rising by 9.7% on the Halifax
+index; unsecured credit rising at over 8%. Are we now at a 
+Page 10
+Inflation Report Q&A - 5.11.15
+situation where you might have to think of macropru
+measures to keep some other aspects in check while you still
+need very low interest rates?
+Mark Carney: Yeah, okay. Very important question. Just one point of
+context, if I may, Chris, first - and then get to the heart of it -
+which is that, I think at three years, which is roughly what
+you're referencing, we have a - I think it's a 56%, for what
+it's worth, probability for the extent the ribbon chart is
+accurate - of inflation overshooting that far out, again, given
+the overall context, including asset prices, of global growth.
+You know, for what it's worth, that overshoot - and an
+overshoot of 2.2 - that's the highest overshoot we've had
+since August 2005 in terms of our forecast. The overshoot at
+Year 2 is the biggest we've had since February of 2013, a
+time when inflation was above and coming down. You know,
+and again I will re-emphasise what the MPC's preference is in
+terms of delivering the inflation target - which is set out in a
+letter to the Chancellor under the remit. And I would suggest
+that that horizon is not entirely consistent with that
+preference, and that's a mild way of putting it.
+But let me just recap the core of your question, which is -
+you're right - unsecured credit growth growing at 8% for
+consumers; house price - and this bounces around a bit, but
+we do see house price growth picking up. And in fact we see
+activity in the housing market picking up, albeit with respect
+to activity in the housing market, picking up from a relatively
+low level. And we do have to be - and I should say as well,
+we should also have over the course of the forecast, a further
+fall in the savings rate over the course of the forecast, to
+historically low levels, as it is now measured.
+So we are conscious of those developments and, as an
+institution as a whole, we do have to think about the balance
+in the recovery and the potential financial stability 
+Page 11
+Inflation Report Q&A - 5.11.15
+implications of those developments or an accentuation of
+those developments might be a better way to put it. And that
+does bring into scope some macroprudential considerations.
+One aspect - I would highlight that what we have been seeing
+in terms of underwriting standards in the housing market is
+that high loan to income - underwriting standards have
+improved in the housing market steadily since the spring of
+last year. So those types of risk have reduced. The number
+of distressed households - and we'll be coming out with the
+Bank NMG survey early in the new year, but the number of
+distressed and vulnerable households have continued to go
+down. Those are households, as you know, who have sort of
+above 40% debt serviced income ratios. So that has gone
+down. The overall levels of debt to income have gone down
+as well. But that's not to say those trends couldn't reverse,
+and we do have to be conscious of that. We have to be
+conscious of that - and I'll finish here, and maybe Ben, I don't
+know if you want to supplement, but we have to be conscious
+of that - first and foremost from a macroprudential
+perspective because we do have those tools and so the coordination
+with the FPC is important.
+We do have to take into account, as the MPC, that dialogue
+and the role of interest rates in all of this as well, particularly
+if decisions are marginal.
+Ben Broadbent: No, no, just to say that there is a box on Household Balance
+Sheets on Page 15 of the Report, if you want to read it, and
+then as the Governor said, there'll be a further assessment of
+the survey we do before the end of the year in the Quarterly
+Bulletin.
+Adam Parsons, BBC 5 live: Governor, a word that both you and the Chancellor are quite
+fond of using is symmetric. And clearly we're at a period here
+of very low inflation. And in his letter to you, the Chancellor
+says it is welcome news that we're at this very low 
+Page 12
+Inflation Report Q&A - 5.11.15
+inflationary period, even though we're clearly 2 percentage
+points off target. I wonder whether you think there's a mixed
+message there? And also whether you think he would be
+quite as relaxed if we were overshooting the inflation target
+by 2%, in other words, if it was 4.1%?
+Mark Carney: It's - it's not going to surprise you - it's not for me to speak
+for the Chancellor. The only thing I'll observe in terms of our
+forecast, and I referenced in my comments, is that real
+income growth has picked up to rates - the strongest rates
+since the crisis. Part of that is wage growth getting back to
+3% and potentially with the prospect of going further -
+certainly that's our expectation in the forecast. But what also
+contributes to that, obviously, is the low level of CPI inflation
+at present. And a low level that's predominantly affected by
+imported disinflation - commodity prices, other imported
+goods prices driven by importantly the strength of sterling.
+We're not seeing - the judgement of the Committee is still
+that inflation expectations are well-anchored, so this is, in our
+view, a temporary period. And we as a Committee have to
+manage policy through that period. Now the Chancellor or
+others may look at a much shorter term horizon and the
+implication's there - we're looking a little further up.
+Phil Aldrick, The Times: I just want to return to the turn of the year comments. Do
+you still stand by those comments that you made back in July
+and you've repeated? Or have you changed your mind in the
+light of these forecasts? And, you know, people have been
+fixing their mortgages on the back of your messages; I just
+wondered if you felt like your messages - and obviously that
+may have been an expensive decision now, so I just
+wondered if you believe your messaging may not have been
+helpful?
+Mark Carney: Well, the first thing is - and I'm a little reluctant to take this
+Committee press conference into my personal views, because
+that's not the spirit of it.
+Page 13
+Inflation Report Q&A - 5.11.15
+The comments and the perspective on how the decision gets
+potentially tougher, if you will, and the decision is better
+informed by the progress or not of the factors that influence
+the prospects for inflation, and of course that still stands. I
+mean, that's absolutely - that's absolutely right. The
+decision, as I've stressed - and you know this, Phil - it's not,
+not a pre-commitment, it's a decision. And if you get to the
+point, into the next year, after the year has turned, and it's
+not the appropriate stance to raise interest rates, I - as any
+of the members of the Committee - if it's our judgement that
+it isn't the right time to raise interest rates, we won't vote for
+an interest rate increase, regardless of what had been said
+previously.
+Has the prospect of normalisation increased as the recovery
+has progressed? Absolutely. Is it prudent for people to take
+that into account? By the way, for reference, about two
+thirds of households, on the basis of various survey
+measures, expect that interest rates will begin to increase at
+some point over the course of the next 12 months. Given, as
+forecast, that is a reasonable expectation. But we'll have to
+see what transpires, both domestically, but as we are
+reminded repeatedly, what matters as well is what happens
+beyond our shores and the impact of that on inflation. So
+we'll take our decisions at the right time and appropriate to
+achieve our objectives.
+David Smith, Sunday Times: Governor, if we look at the influences on inflation in recent
+years - the big influences - and the rise and then the fall in
+commodity and energy prices, the fall and then the rise in
+sterling, and if we look at the things the MPC monitors quite
+closely, such as spare capacity - that doesn't seem to be
+particularly well-related to what happens to core inflation. So
+over the past two or three years, we've seen a tightening of
+capacity, but a fall in core inflation.
+Page 14
+Inflation Report Q&A - 5.11.15
+I mean, does this - you know, not to be rude about this, but
+does this reduce the role of the MPC to that of a spectator
+when these big global developments are happening?
+Mark Carney: The - in terms of - this is a crucial question both in terms of
+the relationship - I mean, historic relationships have been
+amplifying this - there's been a reasonable relationship in the
+UK between - there's a reasonable wage Phillips curve in the
+UK, so the relationship between various measures of labour
+markets - particularly unemployment and wages. There has
+been a less robust relationship - a price Phillips curve, so the
+ultimate translation of those wage developments into prices.
+Now that's partly - one can posit that that's partly because of
+the openness of the economy. The degree of pass-through -
+the very fact that this is a very open economy, that's subject
+- and its consequence is subject to foreign shocks whether it's
+through the exchange rate or just through imported good
+prices, positively or negatively. That breaks down that
+relationship, or it reduces that relationship - it's less tight
+than it is at the core.
+But by the same token, domestic wages, 50% of domestic
+cost - domestic costs are a very important determinism in
+inflation, we have to manage policy to look through. And we
+can influence, and I think do influence, the evolution of those
+prices.
+So when we look at the forecast - and I'll pass to Ben now -
+when we look at the forecast at present, we do see - as you
+rightly point out - these vague external factors. We've been
+refining our view in terms of over what horizon they impact
+inflation, but eventually - unless you have a better model
+than we do in terms of ability to predict the next big oil price
+shock, up or down, we're going to look through that and
+influence that which we can, which are largely those domestic
+factors.
+Page 15
+Inflation Report Q&A - 5.11.15
+Ben Broadbent: I think that's absolutely right. The only thing I'd say is that,
+even though we've always been open, I think it's right to say
+that these overseas influences have probably got noisier over
+time. It's partly because of the crisis, partly also because
+we're trading with countries - unlike the period, say, prior to
+the mid-'90s - who are very different from us, much more
+than we used to. And trade between emerging and advanced
+economies has grown a lot, and in that environment you're
+likely to have big relative price moves.
+All that said, these generally don’t last - don't have enduring
+effects on inflation. And I think it's still the case that what
+matters if you look two, three years ahead, on the
+assumption that you don't get hit by more of these shocks -
+and they're unforecastable essentially - what matters is the
+domestic cost growth.
+So it's become noisier, but I don't think it's the case that it
+means we don't control inflation any more.
+[No Microphone], The Guardian: You talk in the Report about resilient sort of momentum in
+the UK despite fiscal consolidation. To what extent have you
+factored in the fiscal consolidation that's still to come,
+particularly in the Spending Review? And if you haven't, to
+what extent should we expect a very different picture in
+February?
+Mark Carney: We have incorporated the Government's current fiscal plans
+in their entirety, as you would expect. The way we treat
+fiscal is - if there's a change, if there's a legislated change, if
+through either the Autumn Statement or the subsequent
+budget the Government changes fiscal stance, we will then
+incorporate it into our forecast. We won't make adjustments
+on news, if you will, or on speculation about fiscal. And so
+the broad brush of the fiscal consolidation is incorporated in
+our forecast. 
+Page 16
+Inflation Report Q&A - 5.11.15
+And I would note that that fiscal consolidation is - you know,
+it's material. On the OBR numbers the reduction, the annual
+reduction in the - and you can take these numbers with a
+grain of salt, but the cyclically adjusted budget deficit is about
+a percentage point per annum over the course of each of the
+next four years, whereas on average it averaged a little less
+than half a percentage point on the same measure for each of
+the last three years. It was volatile but it moved around.
+Those are the OBR numbers, those aren't ours.
+But that gives you a sense that - yes, there's a meaningful
+fiscal consolidation; I don't think that's news. It's
+incorporated in the forecast and the point we make in the
+Report and that I made in my opening statement is that we
+see resilient, in fact robust, private domestic demand, even
+given that fiscal consolidation. So there's quite an offset
+we're seeing from the household sector and business
+investment.
+Richard Barley,
+Wall Street Journal: Governor, you've mentioned a couple of times the moves in
+risky assets that we've seen in the last few months and
+there's a reference in the minutes to [short gap in audio]
+uncertainty about the global economic output. Elite volatility
+has also been down to uncertainty over global monetary
+policy. Is there a risk of a feedback loop developing here?
+Or to put it another way, how much are central banks part of
+the problem as much part of the solution?
+Mark Carney: Well, let me first sort of make a macro point, which is - as we
+were putting together this forecast, and given as I say the
+sort of Group of asset prices, consolation of asset prices that
+exist including risky asset prices, volatility, bank funding
+spreads, other aspects, you know there are impacts,
+obviously there are wealth effects and there's that channel,
+but importantly the sort of cost of capital channel to
+businesses is there. And then you have to make an 
+Page 17
+Inflation Report Q&A - 5.11.15
+assessment on top of that in terms of uncertainty and the
+impacts of uncertainty on investment.
+What matters, as you know, Richard, is persistence of moves.
+And so we've seen a recovery in the last few days; we'll see
+how long that persists.
+I would give a view which is consistent with the Report; I'll
+maybe put a finer point on it. It would appear that in the
+course of - and maybe, Minouche, I'll ask you to amplify on
+this. In the course of the last three months, certainly since
+events in August, largely related to China, happened, that
+markets began to ascribe a bigger probability to a more
+severe downturn globally, so there's greater uncertainty and
+you had bimodal distributions.
+And that in part what we've seen is that markets' views, the
+collective view of the market, has shifted with time, with
+data, but also with central bank attitudes towards those
+prospects. So partly what's been read into some major
+central bank statements has been a different view of the
+relative risks of a bad outcome if you will in emerging
+markets and that cascading through advanced economies.
+And you know, in the run up to this forecast there was
+greater weight on that; in the last few days there's been less
+weight on that channel - I would say broad brush. But maybe
+just …
+Minouche Shafik: Yes, I mean you're right to say that we saw quite a bit of
+volatility in August, I mean the VIX reached levels that we
+hadn't seen since 2011. But I mean, I think as the Governor
+has said that was driven by a reassessment of expectations
+for growth prospects for emerging markets.
+Some of that has been retraced in October and so we've seen
+a retrenchment and an improvement in that. But I think it's
+also part of a wider phenomenon of more episodes of 
+Page 18
+Inflation Report Q&A - 5.11.15
+volatility in financial markets after a very long period after the
+crisis in which volatility was really unusually low. So in some
+sense we're sort of going back to normal when we have these
+sort of episodes and volatility in the period prior to the great
+moderation.
+Ben Chu, The Independent: Governor, these figures you've put out today make it quite
+clear that the flattening of the yield curve since August is
+playing quite a large role in getting inflation back to target
+over the horizon. I know you'll be reticent to deal in
+hypotheticals, but if the yield curve hadn't flattened in that
+way and hadn't delivered that stimulus, is it totally crazy to
+imagine that you and the MPC would have this week have
+been considering possible extra stimulus, maybe even a rate
+cut?
+Mark Carney: Well, the first thing is to put some of the flattening into
+perspective if I may, which will seem like a technical point,
+but it's important; which is that there was a bigger flattening
+in the curve that was used for this forecast. A lot of that has
+now been retraced in the last few days, but there's a bigger
+flattening of the curve out three years and beyond, certainly
+at the ten year as well.
+But over the horizon that's most relevant for where inflation
+ends up at the end of the horizon because of the lags in
+monetary policy, the flattening was more modest. So in the
+order - I mean if you go out one year for the curve used, it's
+about ten basis points of flattening versus odds. The point
+being - the curve has been for some time - has been very flat
+out through 18 months or so. And that's part of the reason
+why you get relatively small moves in that curve. And the
+implied lift-off date for market measures moves quite
+dramatically, whereas the views of informed market
+commentators - are much more static, are much more slow
+to move. 
+Page 19
+Inflation Report Q&A - 5.11.15
+And so one can read too much into those curves near or out
+and it's an important caution in all of this. Because what
+matters, as you know, for the ultimate impact on inflation -
+not just getting it back to target but keeping it there - is the
+sort of cumulative tightening, the integral, if I can say that, of
+tightening over the policy horizon. So it's a very basic point,
+so the curve had flattened but it hasn't flattened as much as
+it might seem.
+On top of that you had quite a bit move in risk - the prices of
+risk assets which flow through the forecast, which has a
+dampening effect on the forecast.
+You're right in your preface to the question that I'm not going
+to engage in hypotheticals and speculate on what we might
+have done if the world had been different, but the world
+wasn't different and we dealt with the one we had.
+Hugo: Governor, the minutes of this month's meeting note that
+investors have been unwilling to position for increases in UK
+interest rates, having lost money on similar strategies in
+recent years. Given everything you've said about the
+importance of the market yield curve and all that business,
+how concerned are you that your message is losing credibility
+in the markets and among those investors?
+Mark Carney: We're not - not at all. I mean the question is whether the
+market adjusts to developments in the economy, both
+domestically and abroad. And in the wake of some
+disinflationary forces - the markets' global perception of
+disinflationary forces. So the market took on average a view,
+since August, I would suggest, that the global economy was
+going to slow more markedly than had been anticipated.
+You had a sharp sell-off in a series of commodity prices and
+certainly leaving sterling as a whole still up substantially and
+still up - in a manner that was relevant for the inflation 
+Page 20
+Inflation Report Q&A - 5.11.15
+horizon, on the margin and the market had a reduction in the
+likely degree of monetary stimulus recognising what our likely
+reaction function would be. Directionally it all adds up and
+makes sense.
+Now the market is informed by our updated forecast,
+recognising prices have moved around a bit. It should be
+informed by our perspective in terms of our optimal trade-off,
+which is very clearly set out in the letter to the Chancellor. I
+repeated it several times here, it's in the monetary policy
+statement, it's thought through in terms of the optimal time
+to get back.
+The views on policy and the optimal shape of the curve of the
+market will continue to adjust with developments in the UK,
+with developments in Europe, with developments in the US -
+all our major trading partners. So - entirely comfortable with
+it.
+Harry Daniels, Live Squawk: A lot of the questions you've answered here I've had but one
+from a few of my listeners. The range of views on the MPC,
+you say there's a wide range of views. Has that widened
+since last Report or has that narrowed in terms of the
+progress? You mentioned resiliency and robustness of the
+economy so, with that in mind and do the MPC members have
+a narrower view of where we’re going to go with the
+economy?
+Mark Carney: Thanks, Harry. I'm probably not going to get into the second
+derivative of range of views of members of the Committee. I
+mean the Committee signed up to the forecast, the
+Committee has a common view on the likely path of interest
+rates - limited and gradual increases once rates begin to rise.
+There's one member of the Committee, as you know, who
+believes now is the time to begin those rate increases; for
+others it’s not yet the appropriate point. But those decisions
+will be taken subsequently.
+Page 21
+Inflation Report Q&A - 5.11.15
+There are a series of places, as you know, in the minutes -
+and I’ll finish with this, where there is a range of views of
+member of the Committee whether it’s around the output
+gap, whether it’s around the speed of pass-through, whether
+it’s around other aspects. A lot of those factors cancel out in
+the aggregate in the forecast. I’ll give you one final example,
+which is that there are certainly arguments that the rate of
+productivity growth could continue to accelerate or could
+continue at this level, given that it’s now picked up, which
+would increase the potential growth in the economy.
+There are arguments on the other side, though, that - on the
+labour market that perhaps the participation rate won’t go as
+high as we had assumed, or that desired average hours won’t
+be as much. And there's some element of that may offset
+each other. We’ll do, as our intent is, is not to update these
+things every time we have an MPC meeting, but to do a sort
+of comprehensive stock take which we’ll do in the new year.
+Szu Chan, The Daily Telegraph: In your opening remarks you talk about the forecast
+balancing domestic strength and foreign weakness, but in the
+minutes it even suggests that while domestic strength is
+strong, wages and unit labour costs need to pick up a little bit
+further to sustain the 2% inflation target.
+In front of MPs at the Treasury Select Committee, you talked
+about unit labour costs, if they edged up into the 2s and wage
+growth going up into the 3s it would bring the decision to
+raise rates into sharper relief. Could you give us a broader
+idea of what you’re looking for domestically in order to return
+targets sustainably and not overshoot?
+Mark Carney: Yeah, well we have - we actually gave you a decent sense of
+that in the Report in terms of historic levels of wage growth
+and implied unit labour costs around that. One thing - one of
+the big questions as you know, Szu, is where will productivity 
+Page 22
+Inflation Report Q&A - 5.11.15
+growth get to? So we have a - our forecast for average
+weekly earning wage is - sorry average weekly earnings, one
+measure of wage growth, compensation growth, gets to
+historic averages by 2018. So it gets nearly there by late
+2016 into 2017, around 4%, then gets slightly above it into
+2018.
+We don’t bring productivity - we don’t think productivity will
+necessary get back up to historic levels by that point, which
+means that - all things being equal - unit labour costs are
+going to run a little stronger than they had in the past. Some
+of that gets offset by other factors which dampen a potential
+continuation of foreign disinflation. I'm not talking about
+sterling pass-through, but just relatively lower foreign prices
+given the global outlook. And that’s consistent - well it’s not
+fully consistent with the target because the point is it
+overshoots in the end by a notable level, so we have to take
+that into account as a Committee, and think about what is the
+right policy response for that.
+When we met this week the right policy response was not to
+adjust interest rates - that was the view of the Committee.
+But that wouldn’t necessarily be the case and be consistent
+with exactly the way you framed it which is - what’s
+consistent with hitting the target and staying there? So
+again, if you look at the forecast, if you look at the evolution,
+if the world transpires as we forecast in terms of the growth
+of wages, the outlook for productivity, it would require more
+tightening than is in the implied market curve in order to
+sustainably - to have inflation sustainably at target. I mean
+that’s about as bluntly as I can put it.
+Andy [Break in audio]: Economists polled by Reuters expect central bank policy
+around the world to diverge quite a bit next year, obviously
+with the Fed and the Bank of England perhaps looking to raise
+interest rates at some point and the European Central Bank,
+Page 23
+Inflation Report Q&A - 5.11.15
+the eurozone and Japan and China probably going the other
+direction.
+What discussions has the Bank of England had with other
+central banks about how this will all fit together and how
+much does this divergence feature in your thinking on
+monetary policy for Britain?
+Mark Carney: Well the - I mean we meet almost continually, it feels like
+sometimes, as central banks. We’ll be meeting again this
+weekend as you probably know in Basel. And the core of our
+discussions we have is about what’s fundamentally going on
+in each other’s economies, it’s an understanding of real and
+nominal factors in each other’s economies.
+Yes, we do have some discussions in terms of respective path
+for policy, but I would say that in this era of central banking
+that there is not much that’s discussed that isn’t in the public
+domain anyway. It’s just - I mean, Minouche, you might
+want to speak to this and your G7 discussions, but it’s just a -
+yes, it is a chance to be sitting around a table with the people
+who are at press conferences like this, but they’re not saying
+- okay I said X at the press conference, but let me tell you
+what we’re really going to do.
+Minouche Shafik: I couldn’t agree more. I mean you do get a bit more detail in
+some of these discussions and a bit more candour, but the
+basic policy messages are the same. I mean the good thing
+is that this co-ordination does happen and there is very good
+awareness of the expected actions of other central banks, and
+obviously taken into account and to our own thinking.
+Mark Carney: And I’d just underscore that point which is "expected"
+actions. And it’s expected actions of the individuals, so
+there's no central bank, there is no major - I’ll tell you and
+give you deep insight. There is no major central bank, the
+Bank of England included, that knows what it’s going to do at 
+Page 24
+Inflation Report Q&A - 5.11.15
+its next meeting, in the first quarter or second quarter of next
+year. Every major central bank has a framework that is
+guiding that discussion. Obviously it has an objective but it
+has a framework of the most important factors that could
+influence that decision, and obviously different individuals
+weigh different factors differently. But there's no way direct
+game path.
+And the only time in my experience as - for what it’s worth -
+as a G7 Governor that that was different was in the depth of
+2008 when we basically agreed that we would do certain
+things in some order. And even then on the margin there
+were some pretty big decisions that needed to be made.
+Mike Bird, Business Insider: Over the weekend ECB President Mario Draghi revised his
+own view in an interview that the ECB’s deposit rate couldn’t
+be cut further into more deeply negative territory. I don’t
+expect you to comment on the ECB policy, obviously, but he
+referenced experiences in countries like Sweden and
+Switzerland, which have implemented more steeply negative
+policy rates seemingly without any sort of flight to cash - they
+seem fairly manageable. Has the experience of those
+countries adjusted the Bank of England’s understanding of
+the tools it would have to tackle this in the future?
+Mark Carney: Thank you for the question. We - let me preface this with a
+statement of the obvious which is - our discussion was not
+about easing options - okay, absolutely clear. We didn’t
+discuss easing options. We discussed whether or not to
+tighten policy, appropriate time to tighten policy, etc. And
+you see the vote and so you know the outcome of that.
+What we have done, as you’re probably familiar, is that we
+did some work about six months ago, nine months ago
+probably now, where we looked more closely at what the
+effect of lower bound was in the UK. The reason we stopped
+at half a percentage point, the MPC several years ago stopped 
+Page 25
+Inflation Report Q&A - 5.11.15
+at half a percent, is the feeling was couldn’t lower rates more
+than that without A, causing disruption in money markets,
+that’s now more of an open question, but B, I think really the
+binding constraint was the profitability of the building society
+sector and the impact that would have, given the capital - the
+need to rebuild capital then. And that was a legitimate
+concern, and so it would have been not loosening, it would
+have tightened given the importance of building societies.
+Now building societies have rebuilt capital, they’re in a better
+position and we have updated our view, which is that we
+think - if we ever needed to, we could cut rates from this
+level, and in fact I'm sure I reference that, I do reference that
+in the letter again, if we ever needed to.
+We’re not in that world, we’re not contemplating. It’s not
+clear that that extends as deeply as, say, where the
+Reichsbank has gone. I’ll make one other point on this
+though which is the fact that we’re not at the zero lower
+bound any more, or the effective lower bound, loosens
+somewhat the sort of risk management arguments that one
+sometimes hears around the optimal stance of policy and the
+prospective start of any tightening cycle.
+Ben Broadbent: It’s also important to understand they have different systems
+of setting interest rates and different rules for reserves.
+These are marginal deposit rates, paid only on a certain
+proportion of reserves. We set a single interest rate on all
+however many 300-odd billion of reserves are on the system.
+So we have a slightly different system and all else equal that
+will reduce our capacity to …
+Mark Carney: Yeah. This is a crucial point because the extent to which the
+negative interest rate flows through actually to the customer,
+if you will, is much diminished when you have that type of
+reserve setting framework. Now obviously the more negative
+you go, and on a bigger proportion it ultimately can flow 
+Page 26
+Inflation Report Q&A - 5.11.15
+through, but it doesn’t flow through as quickly. But in our
+system it is more immediate and so these things are more
+binding, right.
+Mario Blascak,
+World Business Press Online: Governor Carney, does the MPC look at the Taylor monetary
+rule as an option to view the monetary policy decisions? And
+if so, would that be the original Taylor rule or the modified
+with Okun's law?
+Mark Carney: We’d hope the modified. I’ll let you take that one.
+Ben Broadbent: Can I say one thing about this Taylor rule? The Taylor rule is,
+when it was first written down, was not a prescriptive rule, it
+was not meant to suggest here’s how you should set
+monetary policy. It was simply a description of the way the
+Fed behaved over a certain period of time.
+Second point I’d make is this: it’s not robust as a rule to the
+kind of variations we talked about early on in the natural
+equilibrium rate of interest. Our objective is the inflation
+target, and we take an assessment each month what level of
+interest rate is necessary to hit that and we do not tie
+ourselves to some particular feedback rule, and certainly not
+that one.
+Facilitator: Thank you very much everybody, that’s all we’ve got time for.
+We look forward to seeing you next time.
+END

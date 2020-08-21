@@ -1,0 +1,60 @@
+topic0,household,spend,incom,consumpt,consum,real,save,increas,debt,futur,confid,sale,wealth,may,retail,ratio,current,financi,expenditur,level
+ ,0.132,0.103,0.079,0.069,0.063,0.062,0.033,0.025,0.021,0.02,0.018,0.017,0.017,0.016,0.015,0.014,0.012,0.01,0.009,0.009
+topic1,asset,bank,purchas,market,bond,yield,equiti,corpor,billion,financ,financi,stock,debt,investor,increas,govern,issuanc,spread,reserv,gilt
+ ,0.08,0.077,0.055,0.046,0.033,0.027,0.027,0.027,0.024,0.021,0.019,0.016,0.016,0.014,0.014,0.014,0.014,0.013,0.013,0.013
+topic2,price,oil,import,energi,rise,good,increas,commod,higher,cost,food,futur,retail,ga,pass,non,input,servic,produc,contribut
+ ,0.35,0.058,0.044,0.041,0.033,0.029,0.026,0.025,0.025,0.023,0.019,0.017,0.017,0.017,0.015,0.012,0.011,0.01,0.009,0.008
+topic3,may,section,reflect,factor,recent,weak,discuss,box,part,past,page,temporari,associ,underli,explain,addit,develop,persist,relat,boost
+ ,0.093,0.081,0.068,0.057,0.053,0.04,0.04,0.035,0.031,0.03,0.03,0.018,0.016,0.016,0.016,0.012,0.011,0.011,0.01,0.01
+topic4,think,can,look,will,know,thing,last,question,actual,happen,quit,cours,mean,peopl,reason,tri,big,differ,want,clear
+ ,0.061,0.029,0.024,0.021,0.02,0.02,0.018,0.017,0.015,0.014,0.013,0.012,0.011,0.011,0.011,0.01,0.01,0.01,0.009,0.008
+topic5,term,expect,near,remain,medium,short,outlook,littl,consist,continu,longer,level,measur,although,broadli,indic,rise,run,ahead,close
+ ,0.2,0.179,0.065,0.057,0.046,0.036,0.029,0.029,0.029,0.024,0.024,0.019,0.018,0.018,0.012,0.012,0.012,0.012,0.011,0.011
+topic6,risk,committe,outlook,uncertainti,balanc,central,view,judg,judgement,downsid,possibl,rang,prospect,overal,project,around,consider,upsid,greater,outcom
+ ,0.117,0.054,0.053,0.053,0.05,0.034,0.033,0.031,0.029,0.027,0.024,0.021,0.02,0.018,0.018,0.018,0.017,0.016,0.014,0.014
+topic7,growth,gdp,quarter,slow,output,weaker,stronger,trend,slowdown,quarterli,somewhat,strong,grew,slightli,activ,estim,half,tabl,pick,third
+ ,0.335,0.092,0.091,0.056,0.044,0.032,0.026,0.02,0.02,0.016,0.013,0.013,0.012,0.012,0.011,0.011,0.01,0.009,0.009,0.009
+topic8,report,point,august,februari,novemb,around,time,percentag,lower,higher,start,averag,slightli,may,day,level,littl,chart,run,index
+ ,0.145,0.106,0.066,0.063,0.062,0.05,0.048,0.045,0.043,0.035,0.032,0.029,0.018,0.017,0.017,0.014,0.014,0.013,0.011,0.01
+topic9,will,time,adjust,come,much,might,need,economi,given,mean,period,difficult,case,occur,face,possibl,process,far,place,reason
+ ,0.133,0.051,0.046,0.033,0.031,0.028,0.026,0.019,0.019,0.018,0.017,0.015,0.015,0.014,0.013,0.012,0.012,0.011,0.011,0.011
+topic10,invest,busi,compani,capit,may,demand,level,stock,profit,increas,rel,reduc,firm,uncertainti,rais,improv,inventori,low,exampl,aggreg
+ ,0.134,0.084,0.074,0.056,0.054,0.034,0.031,0.027,0.025,0.021,0.021,0.02,0.02,0.017,0.013,0.012,0.012,0.008,0.008,0.007
+topic11,chang,will,affect,can,depend,impact,extent,rel,influenc,tend,develop,factor,exampl,movement,effect,therefor,determin,gener,directli,sensit
+ ,0.097,0.063,0.056,0.037,0.034,0.033,0.032,0.032,0.025,0.023,0.022,0.022,0.021,0.02,0.019,0.013,0.013,0.012,0.01,0.01
+topic12,effect,impact,govern,lower,fiscal,reduct,increas,reduc,public,year,plan,overal,offset,cut,budget,tax,announc,nomin,result,higher
+ ,0.065,0.038,0.037,0.032,0.032,0.027,0.026,0.026,0.026,0.025,0.022,0.02,0.019,0.017,0.016,0.015,0.015,0.015,0.014,0.013
+topic13,growth,continu,remain,demand,recoveri,domest,support,pace,grow,weak,pick,eas,gradual,strong,subdu,modest,although,recov,strengthen,robust
+ ,0.104,0.09,0.083,0.064,0.056,0.033,0.028,0.026,0.023,0.021,0.02,0.019,0.019,0.018,0.018,0.016,0.016,0.014,0.013,0.013
+topic14,hous,market,increas,activ,price,rise,mortgag,indic,recent,may,equiti,level,low,valu,properti,although,number,risen,associ,suggest
+ ,0.095,0.067,0.047,0.036,0.033,0.033,0.031,0.025,0.024,0.023,0.021,0.019,0.015,0.015,0.015,0.015,0.012,0.012,0.011,0.011
+topic15,inflat,target,cpi,pressur,rpix,domest,higher,expect,rise,remain,close,vat,inflationari,persist,fall,judg,rpi,impact,push,extern
+ ,0.416,0.098,0.069,0.037,0.022,0.017,0.015,0.015,0.014,0.013,0.012,0.012,0.01,0.009,0.009,0.009,0.008,0.007,0.007,0.007
+topic16,product,suppli,capac,demand,margin,spare,economi,crisi,slack,potenti,compani,degre,level,output,pressur,within,pre,recess,weak,extent
+ ,0.094,0.079,0.068,0.052,0.036,0.033,0.033,0.03,0.03,0.029,0.026,0.024,0.023,0.023,0.021,0.021,0.02,0.02,0.015,0.012
+topic17,economi,euro,unit,area,world,global,countri,state,activ,prospect,uk,kingdom,market,econom,emerg,develop,financi,major,concern,outlook
+ ,0.072,0.056,0.055,0.05,0.045,0.042,0.032,0.029,0.028,0.028,0.027,0.024,0.019,0.017,0.017,0.015,0.013,0.013,0.013,0.012
+topic18,project,forecast,period,mpc,central,chart,assum,assumpt,path,condit,horizon,show,end,outturn,profil,shown,throughout,probabl,impli,base
+ ,0.158,0.115,0.076,0.061,0.061,0.046,0.04,0.035,0.025,0.019,0.018,0.016,0.016,0.016,0.015,0.014,0.013,0.013,0.012,0.011
+topic19,growth,wage,cost,earn,pay,labour,pressur,higher,rise,product,increas,real,unit,settlement,recent,pick,nomin,may,subdu,contribut
+ ,0.106,0.091,0.084,0.052,0.051,0.042,0.038,0.028,0.021,0.021,0.017,0.016,0.016,0.015,0.014,0.011,0.011,0.01,0.01,0.01
+topic20,employ,labour,unemploy,work,number,hour,job,increas,market,peopl,averag,particip,time,may,rise,staff,equilibrium,lf,forc,popul
+ ,0.079,0.072,0.068,0.055,0.033,0.032,0.025,0.024,0.024,0.022,0.018,0.017,0.015,0.014,0.013,0.013,0.012,0.012,0.011,0.011
+topic21,bank,credit,condit,financi,lend,money,fund,borrow,loan,deposit,broad,avail,tighten,sheet,lender,improv,corpor,cost,spread,secur
+ ,0.099,0.078,0.052,0.046,0.04,0.038,0.033,0.03,0.021,0.02,0.02,0.017,0.015,0.012,0.012,0.012,0.011,0.01,0.01,0.01
+topic22,rate,interest,market,impli,offici,path,rise,expect,futur,forward,basi,bank,curv,low,chart,unchang,lower,move,particip,follow
+ ,0.424,0.113,0.074,0.03,0.029,0.026,0.02,0.019,0.014,0.012,0.011,0.011,0.01,0.009,0.009,0.008,0.008,0.008,0.008,0.008
+topic23,fall,reflect,chart,declin,fallen,past,part,larg,recent,sharpli,lower,sharp,rel,much,follow,share,risen,mid,despit,earli
+ ,0.135,0.097,0.094,0.059,0.054,0.039,0.037,0.031,0.029,0.023,0.022,0.02,0.019,0.018,0.017,0.015,0.014,0.014,0.013,0.013
+topic24,measur,estim,data,revis,use,account,differ,base,inform,weight,suggest,indic,current,compon,chang,provid,nation,publish,gdp,previous
+ ,0.073,0.07,0.065,0.056,0.034,0.029,0.024,0.024,0.021,0.018,0.016,0.016,0.015,0.014,0.014,0.013,0.012,0.011,0.01,0.009
+topic25,polici,monetari,committe,mpc,meet,bank,decis,maintain,set,econom,provid,vote,member,stimulu,appropri,note,economi,stabil,rate,immedi
+ ,0.093,0.056,0.056,0.053,0.039,0.031,0.026,0.023,0.022,0.017,0.016,0.016,0.014,0.014,0.014,0.012,0.011,0.011,0.01,0.01
+topic26,sector,survey,servic,output,suggest,manufactur,indic,privat,evid,agent,report,busi,region,industri,construct,consist,recent,accord,balanc,data
+ ,0.124,0.112,0.065,0.063,0.058,0.041,0.032,0.031,0.024,0.021,0.019,0.018,0.017,0.015,0.013,0.013,0.012,0.011,0.011,0.011
+topic27,month,year,chart,rose,fell,annual,earlier,previou,compar,septemb,june,sharpli,januari,decemb,volatil,last,march,index,octob,level
+ ,0.097,0.073,0.051,0.05,0.049,0.041,0.029,0.023,0.023,0.019,0.019,0.018,0.018,0.016,0.015,0.015,0.015,0.014,0.014,0.014
+topic28,sterl,uk,trade,export,import,net,exchang,depreci,good,appreci,account,domest,deficit,demand,kingdom,world,current,eri,contribut,effect
+ ,0.092,0.083,0.073,0.07,0.069,0.049,0.044,0.031,0.024,0.021,0.019,0.018,0.017,0.017,0.017,0.016,0.016,0.014,0.014,0.013
+topic29,year,averag,around,past,next,expect,tabl,month,littl,broadli,ago,remain,slightli,half,recent,extern,close,flat,respond,ahead
+ ,0.225,0.089,0.078,0.054,0.048,0.048,0.04,0.039,0.039,0.039,0.026,0.025,0.024,0.015,0.014,0.012,0.011,0.011,0.011,0.011

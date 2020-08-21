@@ -1,0 +1,5 @@
+Dirichlet hyperparameters at defaults
+burnin 50
+thinning 50
+sampleno 100
+samplekeep 20
