@@ -19,6 +19,7 @@ import pandas as pd
 from sklearn.linear_model import ElasticNetCV
 from sklearn import preprocessing
 import os
+import statsmodels.api as sm
 directory = 'C:/Users/tmund/Documents/Submissions/HigherMomentsRep/'
 os.chdir(directory)
 
@@ -117,6 +118,41 @@ qadf_scaled = preprocessing.scale(qadf_nan)
 statdf_scaled = preprocessing.scale(statdf_nan)
 entiretextdf_scaled = preprocessing.scale(entiretextdf_nan)
 
+# Construct own lag residuals
+lag_no = 4
+
+olsdf_list = [irdf_scaled, qadf_scaled, statdf_scaled, entiretextdf_scaled]
+irdf_resid = pd.DataFrame(index = np.arange((len(irdf_scaled)-lag_no)), columns = irdf_nan.columns)
+qadf_resid = pd.DataFrame(index = np.arange((len(qadf_scaled)-lag_no)), columns = qadf_nan.columns)
+statdf_resid = pd.DataFrame(index = np.arange((len(statdf_scaled)-lag_no)), columns = statdf_nan.columns)
+entiretextdf_resid = pd.DataFrame(index = np.arange((len(entiretextdf_scaled)-lag_no)), columns = entiretextdf_nan.columns)
+resid_list = [irdf_resid, qadf_resid, statdf_resid, entiretextdf_resid]
+
+for j, dataframe in enumerate(olsdf_list):
+    for i in np.arange(np.shape(dataframe)[1]): # for topic
+        y = dataframe[lag_no:, i]
+        x_1 = np.roll(dataframe[:, i], 1).reshape(-1, 1)
+        x_2 = np.roll(dataframe[:, i], 2).reshape(-1, 1)
+        x_3 = np.roll(dataframe[:, i], 3).reshape(-1, 1)
+        x_4 = np.roll(dataframe[:, i], 4).reshape(-1, 1)
+        lag_list = [x_1, x_2, x_3, x_4]
+        X = np.concatenate(lag_list[:lag_no], axis=1)[lag_no:, :] 
+        model = sm.OLS(y, X)
+        res = model.fit()
+        y_hat = res.predict()
+        resid = y-y_hat
+        resid_df = resid_list[j]
+        resid_df.iloc[:, i] = resid
+
+for df in resid_list[:3]:
+    df.iloc[:, :30] = df.iloc[:, 30:].diff(1).values
+    df.drop(labels=0, axis=0, inplace=True)
+
+slices = np.concatenate((np.arange(0, 30), np.arange(60, 90), np.arange(120, 150)))
+slices_1 = np.concatenate((np.arange(30, 60), np.arange(90, 120), np.arange(150, 180)))
+entiretextdf_resid.iloc[:, slices] = entiretextdf_resid.iloc[:, slices_1].diff(1).values
+entiretextdf_resid.drop(labels=0, axis=0, inplace=True)
+
 # -----------------------------------------------------------------------------
 # Run Elastic Nets
 # -----------------------------------------------------------------------------
@@ -127,13 +163,13 @@ momentlist = ['StDevresid', 'Skewresid', 'Kurtosisresid']
 # And for three mediums
 mediumlist = ['ir', 'qa', 'stat']
 
-textforENdict = {'ir' : irdf_scaled,
-                 'qa' : qadf_scaled,
-                 'stat' : statdf_scaled}
+textforENdict = {'ir' : preprocessing.scale(irdf_resid),
+                 'qa' : preprocessing.scale(qadf_resid),
+                 'stat' : preprocessing.scale(statdf_resid)}
 
-m12forENdict = {'ir' : m12df_nan_ir,
-                'qa' : m12df_nan_qa,
-                'stat' : m12df_nan_stat}
+m12forENdict = {'ir' : m12df_nan_ir.iloc[lag_no+1:, :],
+                'qa' : m12df_nan_qa.iloc[lag_no+1:, :],
+                'stat' : m12df_nan_stat.iloc[lag_no+1:, :]}
 
 sampleno=500
 
@@ -162,7 +198,7 @@ percbootdict = {'StDevresid_ir':np.zeros(60),
 for moment in momentlist:
     for medium in mediumlist:
         
-        y = m12forENdict[medium].loc[:, moment].values.copy()*1000 # doing it in basis points means faster convergence
+        y = preprocessing.scale(m12forENdict[medium].loc[:, moment].values.copy())*1000 # doing it in basis points means faster convergence
         X = textforENdict[medium].copy()
         for i in range(sampleno):
             sample_index = np.random.choice(range(0, len(y)), len(y), replace=True) # create a random sample of indices
@@ -172,7 +208,7 @@ for moment in momentlist:
             # Do elastic net incorporating cross validation choice of penalty
             regr = ElasticNetCV(copy_X = True,
                 cv = len(y_sample),
-                fit_intercept = False,
+                fit_intercept = True,
                 alphas = None,
                 l1_ratio=0.99,
                 random_state=0,
@@ -215,7 +251,7 @@ entirecoeffpercdict = {'stdev_entire':np.zeros(180),
 i=0
 for moment in momentlist:
     coeffname = entirecoeffpermlist[i]
-    y = m12df_nan_entire.loc[:, moment].values.copy()*1000
+    y = preprocessing.scale(m12df_nan_entire.loc[:, moment].values.copy())*1000
     X = entiretextdf_scaled.copy()
     
     for k in range(sampleno):
@@ -226,7 +262,7 @@ for moment in momentlist:
         # Do elastic net incorporating cross validation choice of penalty
         regr = ElasticNetCV(copy_X = True,
                 cv = len(y_sample),
-                fit_intercept = False,
+                fit_intercept = True,
                 alphas = None,
                 l1_ratio=0.99,
                 random_state=0,

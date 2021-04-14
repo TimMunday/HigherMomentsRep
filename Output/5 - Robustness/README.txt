@@ -1,1 +1,0 @@
-The files in the Purged folder refer to the exercise when the purging is done on the new sample. The files not in the purged folder use the data that has been purged using the entire sample.
