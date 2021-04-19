@@ -105,24 +105,17 @@ qa_fin_skew = preprocessing.scale(m12df_nan_qa.loc[:, 'Skewresid'].values.reshap
 stat_fin_skew = preprocessing.scale(m12df_nan_stat.loc[:, 'Skewresid'].values.reshape(-1, 1))
 entire_fin_skew = preprocessing.scale(m12df_nan_entire.loc[:, 'Skewresid'].values.reshape(-1, 1))
 
-#%% Export data for use in r
-
-# data_for_r = np.concatenate((irdf_scaled, ir_fin), axis=1)
-# data_for_r = np.array(data_for_r, dtype='float64')
-# data_out = numpy2ri(data_for_r)
-# r.assign("data_forR", data_out)
-# r("save(data_forR, file='C:/Users/tmund/Documents/HigherMoments/Code/Python/dataR.gzip', compress=TRUE)")
 
 #%% Estimate DFM 1
 
 text_est_list = [irdf_scaled, qadf_scaled, statdf_scaled]# irdf_scaled, qadf_scaled, statdf_scaled] #entiretextdf_scaled
 fin_est_list = [ir_fin_skew, qa_fin_skew, stat_fin_skew]#, ir_fin_sd, qa_fin_sd, stat_fin_sd ir_fin_skew, qa_fin_skew, stat_fin_skew] #entire_fin_sd, entire_fin_skew
 results_list = []
-factor_no = 1
+factor_no = 5
 for i in np.arange(len(text_est_list)):  
     model = DynamicFactorMQ(endog=pd.DataFrame(np.concatenate((text_est_list[i], fin_est_list[i]), axis=1)),
                       factors=factor_no,#factor_multiplicities=factor_no,
-                      factor_orders=5,
+                      factor_orders=1,
                       idiosyncratic_ar1=False) 
     results = model.fit(method='em',
                         cov_type='robust',
